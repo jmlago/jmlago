@@ -1,0 +1,6 @@
+- ✨ Hi, I’m Jose Maria
+- 👀 I’m interested in fruitful interactions with interesting people.
+- 🌱 I’m currently learning `haskell`, `rust`, `vue` and game development. Those are my 2023 objectives in learning!
+- 💞️ I’m looking to collaborate on non-profit / open source projects.
+- 📫 How to reach me:
+  - DM me on tw:@josemlago
