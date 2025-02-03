@@ -11,5 +11,4 @@ I'm keen on:
 
 Let's connect if our interests align! 🤝
 
-- 🌟 Open to non-profit/open-source collaborations.
 - 📩 Reach me via DM: @josemlago (Twitter)
